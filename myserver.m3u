@@ -1,109 +1,91 @@
-#EXTM3U uri-tvg="https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/epg.xml" x-tvg-
+#EXTM3U
 
-url="https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/epg.xml"
+#EXTINF:-1,Channel 1701
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-
+#EXTINF:-1,Channel 1702
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-bangla/images/3/34/Aakash_Aath_Logo_%282013%29.png", Akash Aath https://munt03.Langotv.in/AAKASHAATH/index.m3u8
+#EXTINF:-1,Channel 1703
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id-"amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped -Amar-Bangla.png", Amar Bangla
+#EXTINF:-1,Channel 1704
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-https://app.ncare.live/c3VydrvyX8RpbEU9M18xNyByMDEOGIDU6Rg7Q6NTAgdEoaeFzbF92YWxIZTOOUDezN1IzMyfvcGVMZE.JCTEPWVN3PTOndFsaWRt
+#EXTINF:-1,Channel 1705
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-aw51aiPhnPTI/anarbanglatv.stream/playlist.m3u8
+#EXTINF:-1,Channel 1706
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-logo-https://yt3.googleusercontent.com/AkdtkYcJ5cbC1MNkbELbIarJgJbCxsyQ08rW-LAbtZ0F8KdDGutcTKLmRpdFf5hxtC_UrFp0-s160-c-k-cox0offffff-no-rj", ASIAN TV
+#EXTINF:-1,Channel 1707
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="asiantv.bd" tvg-
+#EXTINF:-1,Channel 1708
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1,Channel 1709
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="atnbangla.bd" tvg-
+#EXTINF:-1,Channel 1710
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
-logo="https://static.wikia.nocookie.net/Logopedia/images/2/2e/ATN_Bangla.svg", ATN BANGLA
+#EXTINF:-1,Channel 1711
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-https://owr.coverpy.gpcdn.net/hpk-tv/1722/output/index.m3ull
+#EXTINF:-1,Channel 1712
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla tvg-id-"ATN Bangla UK" tvg-
+#EXTINF:-1,Channel 1713
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png", ATN Bangla UK https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1,Channel 1714
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.m3u8
 
-WEXTINF:-1 group-title="Bangla" tvg-id="banglavision.bd tvg-
+#EXTINF:-1,Channel 1715
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-logo="https://www.bvnews24.com/media/common/newbvlogo.png", BANGLA VISION
+#EXTINF:-1,Channel 1716
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-https://owrcoverpy.gpcdn.net/bpk-tv/1715/output/index.nu
+#EXTINF:-1,Channel 1717
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id-"BTVCHITTAGONG. tv"
+#EXTINF:-1,Channel 1718
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.m3u8
 
-tvg
+#EXTINF:-1,Channel 1719
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.m3u8
 
-logo="https://static.wikia.nocookie.net/logopedia/inages/5/52/9TV_Chattogram_Logo.svg", BTV CHITTAGONG
+#EXTINF:-1,Channel 1720
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1,Channel 1721
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-NEXTINF:-1 group-title="Bangla" tvg-id-btv.ba" tvg-
+#EXTINF:-1,Channel 1722
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/8TV HD Logo.svg", BTV HD https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9860-48aa-adcf-5a6c54da8c5c/index.m3u8
+#EXTINF:-1,Channel 1723
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="channeli.bd" tvg-
+#EXTINF:-1,Channel 1724
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_1_HD_logo_2021.png", CHANNEL I https://owrcovcrpy.gpcdn.net/hpk-tv/1723/output/index.m3ull
+#EXTINF:-1,Channel 1725
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="Channels.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images? q=tbn:ANd9GcSxT37QeLoNar MrzrLBNUX SA4ty2w0hnHoqF5RhwENo TOP2229HYAMAK&s=10", Channel S
+#EXTINF:-1,Channel 1726
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.m3u8
 
-https://app.ncare.live/c3VydmVyX8RpbEU9M18XNYBYMDEOGIDU6RgzQ6NTAgdEoǝeFzbF92YWxIZTO0U0ezN1IzNyfvcGVMZE.JCTEFWeVN3PTOndFsaWRt
+#EXTINF:-1,Channel 1727
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.m3u8
 
-aw51aiPhnPTI/chsukoff.strean/playlist.m3u8 #EXTINF:-1 group-title="Bangla" tvg-id="colorsBangla.in" tvg-
+#EXTINF:-1,Channel 1728
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg", Colors Bangla HD http://198.195.239.50:8095/bdixbd.net ColorsBanglaHD/video.eul
-
-#EXTINF:-1 group-title="Bangla" tvg-id=" colorsBangla.in" tvg-
-
-go="https://static.wikia.nocookie.net/logopedia/inages/3/3e/Colors Bangla HD.jpg", Colors Bangla HD (Ads only)
-
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id="DOBangla.in" tvg-logo="
-
-https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp", DD Bangla https://d3qs3d2rkhfort.cloudfront.net/out/v1/7ff57cc9046b4:188b51a0d506f36e7f/index 3.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id-deeptotv.bd" tvg-
-
-go="https://jcwsw2vt33.gpcdn.net/uploads/1 gpcon.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78cl_goplay_deepto logo fina
-
-1 white.svg", DEEPTO TV HD
-
-https://byphdgilyk.gpcdn.net/his/deeptotv/0_1/index.m3u8 #EXTINF:-1 group-title="Bangla" tvg-id="Deshebideshe" tvg-
-
-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwN0936_400x400.jpg",Deshebideshe
-
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.n3u8 #EXTINF:-1 -1 group-title="Bangla" bd" tvg-logo="https://www.jagobd.com/wp-
-
-content/uploads/2024/09/desitv.png", Deshi TV
-
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id="Drama 24" tvg
-
-logo-"https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49", Drama 24
-
-https://vods2.aynas mascope.net/gseriesDrama/index.n3ul #EXTINF:-1 group-title="Bangla" tvg-id="ekushey.bd" tvg
-
-logo="https://raw.githubusercontent.com/subirkunarpaul/Logo/main/Ekushey%20TV.png", Ekushay TV https://ekusheyserver.com/his-live/livepkgr/ definst /liveevent/livestrean3.n3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-ide ekushey.bd" tvg-
-
-logo-"https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png", Ekushay TV (Local)
-
-http://210.4.72.204/his-live/livepkgr/_definst /liv /_definst /liveevent/livestream3.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id="enter 10bangla.in" tvg-
-
-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg", Enter10 Bangla HD
-
-https://live-bangla.akanaized.net/liveabr/pub-iobanglakp3sff/live 720p/chunks.us #EXTINF:-1 group-title-"Bangla" tvg-id-"GTVHD.bd" tvg
-
+#EXTINF:-1,Channel 1729
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 logo="https://static.wikia.nocookie.net/logopedia/inages/6/60/Gtvhd.png",GAZI TV HD
 
 http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
